@@ -1,7 +1,4 @@
-* {
-  box-sizing: border-box;
 
-}
 
 body {
 
@@ -24,6 +21,6 @@ span {
 }
 
 li:hover {
-  background-color: lightslategray;
+  background-color: rgb(10, 58, 106);
   text-decoration: underline;
 }
